@@ -2,8 +2,6 @@
 
 # Chaelin's Github 🫪
 
-<br><br>
-
 ## 🛠 Tech Stack
 
 ### 💻 Front-end
@@ -27,13 +25,6 @@
 </p>
 
 <br>
-
-## 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=cxfls&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxfls&layout=compact&theme=radical" width="48%"/>
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cxfls/cxfls/output/github-snake-dark.svg" />
