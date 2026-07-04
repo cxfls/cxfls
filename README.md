@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">
+<h1 align="center" style="color:#F7A8B8;>
 
 Chaelin's Github 🫪
 
@@ -41,7 +41,7 @@ Chaelin's Github 🫪
   <img alt="github-snake" src="https://raw.githubusercontent.com/cxfls/cxfls/output/github-snake.svg" />
 </picture>
 
-<br><br><br><br>
+<br><br>
 
 ## 📮 Contact
 
