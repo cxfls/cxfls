@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center" style="color:#F7A8B8;>
+<h1 align="center" style="color:#F7A8B8;">
 
 Chaelin's Github 🫪
 
