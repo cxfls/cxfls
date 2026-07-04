@@ -5,6 +5,9 @@
 Chaelin's Github 🫪
 
 </h1>
+<h3>🎓 Computer Science @Chosun University</h3>
+
+<h3>💻 Front-end Developer</h3>
 
 <br><br><br><br>
 
