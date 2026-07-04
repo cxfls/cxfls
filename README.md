@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, 이채린입니다!
 
-🎓 조선대학교 컴퓨터공학과
+🎓 조선대학교 컴퓨터공학과 (졸업)
 💻 프론트엔드 개발자를 목표로 공부하고 있습니다.
 🌱 KB IT's Your Life 부트캠프에서 Spring, Vue.js, 알고리즘을 학습 중입니다.
 
@@ -45,27 +45,6 @@
 <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub 통계
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cxfls&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cxfls&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxfls&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
-## 📝 최근 블로그 글
-
-<!-- blog-post-workflow로 자동 연동 가능 (velog RSS 기반) -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
