@@ -1,32 +1,32 @@
 <div align="center">
 
-# 👋 Hi, I'm Chaelin!
+# 👋 안녕하세요, 이채린입니다!
 
-🎓 Computer Science Student at **Chosun University**
+🎓 조선대학교 컴퓨터공학과
 
-💻 Aspiring Front-end Developer
+💻 프론트엔드 개발자를 목표로 공부하고 있습니다.
 
-🌱 Currently learning **Spring, Vue.js, and Algorithms** through the **KB IT's Your Life Bootcamp**
+🌱 KB IT's Your Life 부트캠프에서 Spring, Vue.js, 알고리즘을 학습 중입니다.
 
 <br>
 
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](여기에_벨로그주소)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](벨로그주소)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/깃허브아이디)
 
 </div>
 
 ---
 
-## 🙋‍♀️ About Me
+## 🙋‍♀️ 소개
 
-- 🎓 Major in Computer Science at Chosun University
-- 💻 Interested in Front-end Development
-- 🌱 Currently studying Spring, Vue.js, and Algorithms
-- 🚀 Goal: Become a Front-end Developer who builds intuitive and user-friendly web applications
+- 🎓 조선대학교 컴퓨터공학과
+- 💻 프론트엔드 개발에 관심이 있습니다.
+- 🌱 Spring, Vue.js, 알고리즘을 꾸준히 학습하고 있습니다.
+- 🚀 사용자에게 편리한 웹 서비스를 만드는 개발자를 목표로 합니다.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 ### 💻 Front-end
 
@@ -63,8 +63,3 @@
 </div>
 
 ---
-
-## 📫 Contact
-
-- 📧 Email : your-email@example.com
-- 📝 Velog : https://velog.io/@아이디
