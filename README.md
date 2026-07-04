@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 👋 안녕하세요, 이채린입니다!
 
