@@ -1,6 +1,10 @@
 <div align="center">
 
-# Chaelin's Github 🫪
+<h1 align="center">
+
+Chaelin's Github 🫪
+
+</h1>
 
 <br><br><br><br>
 
